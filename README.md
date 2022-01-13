@@ -6,7 +6,7 @@ Using LogicWorks program.
 
 ### How to execute
 1. Download [LogicWorks](http://windows.dailydownloaded.com/en/educational-software/science-software/45378-logicworks-download-install)
-2. Open circuit1.cct with LogicWorks.
+2. Open Circuit1.cct with LogicWorks.
 
 ### Related Topics 
 
