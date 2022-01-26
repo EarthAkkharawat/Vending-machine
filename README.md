@@ -1,8 +1,11 @@
 # Vending_machine
 ### Details
-Vending machine architecture using sequential logic design.
+This repository introduces vending machine architecture using sequential logic design as part of 2110263 DIG LO LAB I (Chula Engineering), semester 1/2021.
 
+Created by **Akkharawat Burachokviwat**.
 Using LogicWorks program.
+
+Second-year students majoring in Computer Engineering might need these.
 
 ### How to execute
 1. Download [LogicWorks](http://windows.dailydownloaded.com/en/educational-software/science-software/45378-logicworks-download-install)
